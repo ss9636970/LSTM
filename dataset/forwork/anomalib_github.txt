@@ -1,0 +1,4 @@
+https://paperswithcode.com/paper/towards-total-recall-in-industrial-anomaly
+https://github.com/openvinotoolkit/anomalib/blob/main/tools/train.py
+
+flask: https://devs.tw/post/448
